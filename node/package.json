@@ -1,5 +1,5 @@
 {
-  "name": "@camera.ui/sdk",
+  "name": "@vionvision/sdk",
   "version": "1.4.0",
   "description": "camera.ui sdk",
   "exports": {
