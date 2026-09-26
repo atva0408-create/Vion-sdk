@@ -70,7 +70,7 @@ func Run(constructor pluginConstructor) {
 
 	ctx := context.Background()
 	if err := client.Connect(ctx); err != nil {
-		logger.Error(fmt.Sprintf("camera.ui not reachable on %s: %v", strings.Join(endpoints, ", "), err))
+		logger.Error(fmt.Sprintf("ViON not reachable on %s: %v", strings.Join(endpoints, ", "), err))
 		os.Exit(1)
 	}
 

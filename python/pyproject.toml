@@ -42,11 +42,11 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/cameraui/sdk"
-Documentation = "https://github.com/cameraui/sdk"
-Repository = "https://github.com/cameraui/sdk"
-"Bug Tracker" = "https://github.com/cameraui/sdk/issues"
-Changelog = "https://github.com/cameraui/sdk/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/atva0408-create/Vion-sdk"
+Documentation = "https://github.com/atva0408-create/Vion-sdk"
+Repository = "https://github.com/atva0408-create/Vion-sdk"
+"Bug Tracker" = "https://github.com/atva0408-create/Vion-sdk/issues"
+Changelog = "https://github.com/atva0408-create/Vion-sdk/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["."]

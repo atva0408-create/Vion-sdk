@@ -31,13 +31,13 @@
     "release": "bash scripts/release.sh",
     "update": "updates -M npm,pypi,go,cargo,docker,make --update ./ && updates -M npm,pypi,go,cargo,docker,make --file go,node,python --update ./"
   },
-  "homepage": "https://github.com/cameraui/sdk#readme",
+  "homepage": "https://github.com/atva0408-create/Vion-sdk#readme",
   "bugs": {
-    "url": "https://github.com/cameraui/sdk/issues"
+    "url": "https://github.com/atva0408-create/Vion-sdk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cameraui/sdk.git"
+    "url": "git+https://github.com/atva0408-create/Vion-sdk.git"
   },
   "license": "MIT",
   "author": "seydx",
